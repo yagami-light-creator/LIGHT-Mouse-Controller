@@ -1,7 +1,7 @@
 {
   "version": "5.2.0",
-  "downloadUrl": "",
-  "notes": "Initial update setup",
+  "downloadUrl": "https://github.com/yagami-light-creator/LIGHT-Mouse-Controller/releases/download/v5.2.0/LIGHT.MouseController.exe",
+  "notes": "Initial public release of LIGHT Mouse Controller v5.2.0",
   "mandatory": false,
-  "sha256": ""
+  "sha256": "2399c1d50f8240ffd8c4bb3d56b5b10e15119fc5123dabcb99336dd99169fd30"
 }
