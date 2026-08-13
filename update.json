@@ -1,7 +1,7 @@
 {
-  "version": "5.3.0",
-  "downloadUrl": "https://github.com/yagami-light-creator/LIGHT-Mouse-Controller/releases/download/v5.3.0/LIGHT.MouseController.exe",
+  "version": "5.4.1",
+  "downloadUrl": "https://github.com/yagami-light-creator/LIGHT-Mouse-Controller/releases/download/v5.4.1/LIGHT.MouseController.exe",
   "notes": "New logo, app icon, UI fixes and improvements.",
   "mandatory": false,
-  "sha256": "be72efc45c9fa700aec745606c18f7cf27046c25fdb7d923ed210b6fda455639"
+  "sha256": "fb555d2c1f3103b6508d6c6cffa0a0db0c883a21de147ff8b64f794e608bfe25"
 }
