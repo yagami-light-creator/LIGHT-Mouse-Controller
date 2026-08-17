@@ -1,6 +1,6 @@
 {
-  "appVersion": "5.5.2",
-  "appZipUrl": "https://github.com/yagami-light-creator/LIGHT-Mouse-Controller/releases/download/v5.5.2/LIGHT.MouseController.App.zip",
-  "appSha256": "684DBF03BD6A61340261FD76BA5107CF0159D9AB62205AE64A7D938E065C30A8",
+  "appVersion": "5.5.3",
+  "appZipUrl": "https://github.com/yagami-light-creator/LIGHT-Mouse-Controller/releases/download/v5.5.3/LIGHT.MouseController.App.zip",
+  "appSha256": "AAD13C6F82DB3C53572E4DCC20B829D5E959E78EA13CB6EA4CFF2D5AB0DDFADB",
   "notes": "Release ID: LIGHT-MC-5.5.2-PROTECTED | Online license check on every launch + code time remaining."
 }
