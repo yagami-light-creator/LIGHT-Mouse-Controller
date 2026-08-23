@@ -1,6 +1,6 @@
 {
-  "appVersion": "5.5.8",
-  "appZipUrl": "https://github.com/yagami-light-creator/LIGHT-Mouse-Controller/releases/download/v5.5.8/LIGHT.MouseController.App.zip",
-  "appSha256": "C5067A7B9388CC135E997710065F2F17DB80A72908B53350CC6C1DD6F0FB2A49",
-  "notes": "Release ID: LIGHT-MC-5.5.8-PROTECTED"
+  "appVersion": "6.0.0",
+  "appZipUrl": "https://github.com/yagami-light-creator/LIGHT-Mouse-Controller/releases/download/v6.0.0/LIGHT.MouseController.App.zip",
+  "appSha256": "4CD528F3383D28E96B0F1938EB3FAC703AAB4735C1C04CAA77B6398614D14B5F",
+  "notes": "Release ID: LIGHT-MC-6.0.0-PROTECTED | PUBG Graphics Booster (HDR/Ultra HD + 120 FPS)."
 }
